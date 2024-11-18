@@ -1,0 +1,14 @@
+C:\Users\kovacs.mihaly\source\repos\berek\berek\obj\Debug\net8.0\berek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovacs.mihaly\source\repos\berek\berek\obj\Debug\net8.0\berek.AssemblyInfoInputs.cache
+C:\Users\kovacs.mihaly\source\repos\berek\berek\obj\Debug\net8.0\berek.AssemblyInfo.cs
+C:\Users\kovacs.mihaly\source\repos\berek\berek\obj\Debug\net8.0\berek.csproj.CoreCompileInputs.cache
+C:\Users\kovacs.mihaly\source\repos\berek\berek\bin\Debug\net8.0\berek.exe
+C:\Users\kovacs.mihaly\source\repos\berek\berek\bin\Debug\net8.0\berek.deps.json
+C:\Users\kovacs.mihaly\source\repos\berek\berek\bin\Debug\net8.0\berek.runtimeconfig.json
+C:\Users\kovacs.mihaly\source\repos\berek\berek\bin\Debug\net8.0\berek.dll
+C:\Users\kovacs.mihaly\source\repos\berek\berek\bin\Debug\net8.0\berek.pdb
+C:\Users\kovacs.mihaly\source\repos\berek\berek\obj\Debug\net8.0\berek.dll
+C:\Users\kovacs.mihaly\source\repos\berek\berek\obj\Debug\net8.0\refint\berek.dll
+C:\Users\kovacs.mihaly\source\repos\berek\berek\obj\Debug\net8.0\berek.pdb
+C:\Users\kovacs.mihaly\source\repos\berek\berek\obj\Debug\net8.0\berek.genruntimeconfig.cache
+C:\Users\kovacs.mihaly\source\repos\berek\berek\obj\Debug\net8.0\ref\berek.dll
